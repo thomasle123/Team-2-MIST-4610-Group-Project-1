@@ -7,7 +7,8 @@ Sp24_61608_Group 2
 1. Dylan Artis (https://github.com/DJA706)
 2. Dana Baus (https://github.com/Dananasplitt)
 3. Molly Butkovich (https://github.com/mollybutkovich)
-4. Connor Coniglio (me)
+4. Connor Coniglio ConnorConiglio (github.com)
+
 5. Thomas Le (https://github.com/thomasle123)
 6. Alex Quinlan (https://github.com/AlexQuinlan12)
 
